@@ -27,9 +27,10 @@ Software Developer | AI Enthusiast
 - [CartToGo](https://github.com/GP2022KSU/2022-GP1-04)
 - [CartToGo Figma](https://www.figma.com/file/XHHkuauhd4z6AeSkopReHk/CartToGo?node-id=0%3A1&t=q4hak67wi59xyr8n-1)
 
-  
-[LinkedIn](https://www.linkedin.com/in/aljawharaalbahlal)
-[Email](aljawharaalbahlal@gmail.com)
+## Contact me
+- [LinkedIn](https://www.linkedin.com/in/aljawharaalbahlal)
+- [Email](mailto:aljawharaalbahlal@gmail.com)
+
           
 
 
