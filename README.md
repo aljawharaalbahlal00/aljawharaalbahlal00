@@ -1,5 +1,6 @@
 # Hi, I'm Aljawhara 👋  
 Software Developer | AI Enthusiast 
+
 -[LinkedIn](https://www.linkedin.com/in/aljawharaalbahlal)
 -[Email](aljawharaalbahlal@gmail.com)
 
