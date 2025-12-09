@@ -15,7 +15,7 @@ Software Developer | AI Enthusiast
 
 ## 🌟 About Me
 - Love solving complex problems with simple clean code  
-- Interested in AI for government services (Absher + Agentic AI)  
+- Interested in Agentic AI
 - Certified Professional Scrum Developer (PSD)
 
 ## 📌 My Projects
