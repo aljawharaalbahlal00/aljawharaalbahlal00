@@ -1,9 +1,6 @@
 # Hi, I'm Aljawhara 👋  
 Software Developer | AI Enthusiast 
 
--[LinkedIn](https://www.linkedin.com/in/aljawharaalbahlal)
--[Email](aljawharaalbahlal@gmail.com)
-
 ✨ Passionate about building intelligent systems  
 💼 Working with C#, ABP Framework, Angular  
 🤖 Exploring AI Agent workflows & automation  
@@ -29,6 +26,10 @@ Software Developer | AI Enthusiast
 - [ICES](https://github.com/ShathaAldosari01/ices2023.git),
 - [CartToGo](https://github.com/GP2022KSU/2022-GP1-04)
 - [CartToGo Figma](https://www.figma.com/file/XHHkuauhd4z6AeSkopReHk/CartToGo?node-id=0%3A1&t=q4hak67wi59xyr8n-1)
+
+  
+[LinkedIn](https://www.linkedin.com/in/aljawharaalbahlal)
+[Email](aljawharaalbahlal@gmail.com)
           
 
 
